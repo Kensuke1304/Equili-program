@@ -4,5 +4,3 @@ Ce programme informera l'utilisateur du nombre de calories et de macronitruments
 Nous avons également ajouté quelques exemples de repas équilibrés pour tout type de personne.
 
 Vous pouvez utiliser PyCharm, Sublime text, Geany pour l'ouvrir.
-
-Si vous rencontrez un problème pour télécharger le fichier, vous pouvez copier coller le code
