@@ -5,3 +5,4 @@ Nous avons également ajouté quelques exemples de repas équilibrés pour tout 
 
 Vous pouvez utiliser PyCharm, Sublime text, Geany pour l'ouvrir.
 
+Si vous rencontrez un problème pour télécharger le fichier, vous pouvez copier coller le code
